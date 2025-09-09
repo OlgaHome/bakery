@@ -34,7 +34,7 @@ ul {
 }
 
 .link:hover {
-  color: var(--color-brand);
+  color: var(--color-brand-light);
 }
 
 /*Hero section*/
@@ -43,13 +43,13 @@ ul {
 }
 
 .hero-title .accent {
-  color: var(--color-brand);
+  color: var(--color-brand-light);
 }
 
 /*Advantages section*/
 .advantages-list {
   color: var(--color-primary-light);
-  background-color: var(--color-brand)
+  background-color: var(--color-brand-light)
 }
 
 .section-title .accent{
